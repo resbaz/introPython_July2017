@@ -32,7 +32,7 @@ The basic progression for the workshop should be as follows:
 ### Wednesday
 
 |Time| Activity|
-|---:|:---:|
+|---:|---|
 |10am - 10.30|Rehash|
 |10.30-11.15|Functions|
 |11.15 am - 11.30am|Break|
