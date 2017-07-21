@@ -1,6 +1,6 @@
 # Beginner's Python - July 2017 Edition
 
-This Python Beginner's workshop wil be running from 10am - 5pm on Monday 24th and Wednesday 26th of July, at the CoLab training space within level 3 of the Eastern Resource Centre, University of Melbourne, Parkville.
+This Python Beginner's workshop wil be running from 10am - 5pm on Monday 24th and Wednesday 26th of July, at the CoLab training space, also known as Room 329, Level 3, Eastern Resource Centre, Building 171. Enter at the glass doors next to the Resource cafe, head to the back of the lobby (Keep the ERC entrance on your left) and enter at back right.
 
 This workshop is designed for those trying to explore and learn about the wonders of Python for the very first time. The content is suitable for a range of learners - from those who have never programmed before, to those whoare already proficient in other coding languages. 
 
