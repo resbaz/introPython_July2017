@@ -6,7 +6,14 @@ This workshop is designed for those trying to explore and learn about the wonder
 
 You can find installation instructions for both Python 3.6 and Jupyter Notebook in this github repository, in the ["Python Installation Instructions" file](https://github.com/resbaz/introPython_July2017/blob/master/Python_Installation.md). 
 
-You will also find that the content for the workshop is available in both the markdown (\*.md) format, for online viewing, and as an iPython notebooks (\*.ipynb), which will contain useable code fragments, challenges and explanations for the workshop content. This content is mostly adapted from Dan Sandiford's [Python Gitbook](https://dansand.gitbooks.io/resguides-research-with-jupyter/content/), predominantly from the "Python Basics" section. 
+You will also find that the content for the workshop is available in both the markdown (\*.md) format, for online viewing, and as an iPython notebooks (\*.ipynb), which will contain useable code fragments, challenges and explanations for the workshop content. This content is mostly adapted from Dan Sandiford's [Python Gitbook](https://dansand.gitbooks.io/resguides-research-with-jupyter/content/), predominantly from the "Python Basics" section.
+
+The learning objectives for this course are:
+
+- To understand the basic data types used by Python
+- To program a function that performs a basic operation based on a condition
+- To demonstrate how to incorporate user input into your code, and handle any errors that occur
+- To read in a text file, perform string manipulations, and write a new file. 
 
 ---
 
