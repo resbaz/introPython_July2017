@@ -364,11 +364,14 @@ print("Temporary = " + str(temp_number))
 
 ```
 
-We do have some naming conventions though! When you're trying to make a variable, remember that variables names are case-sensitive. 
+#### The dark art of variable Names:
 
-e.g. `name` is not the same as `Name`
+Python has basically only three rules about naming variables:
+- names you define must start with a letter (a-z,A-Z) or underscore (_) and can be followed by any number of letters, >digits (0-9), or underscores
+- names you define cannot be the same as any of Python's reserved words (see handout)
+- names are case-sensitive: 'YOU', 'you', 'You', and 'yOu' are all different names in Python
+- Note that '-', '+', '*', and '/' are used by Python for defining operations on data and cannot be used in names
 
-The general convention is that variables start with a lower-case letter, and words are separated by underscores, **like_this** or with capitals, **likeThis**. You CAN use numbers in your variable names, but keep them to the end, **like_this1** or **likeThis2**..
 
 Also, try to make your variable names mean something. It can be very confusing for someone else reading your code (or even yourself, after a long break) if you write something filled with a number of different `temp` or `foo1`, `foo2`, etc variables.
 
